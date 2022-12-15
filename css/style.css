@@ -1,1 +1,7 @@
+div#page_principale{
+    background-image: url(../img/fond14k.jpg) !important;
+}
 
+h1{
+    color: white;
+}
